@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	fmt.Println("bye")
+	fmt.Println("welcome")
 	Dir1.PrintDir1()
 }
